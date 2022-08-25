@@ -1,6 +1,6 @@
 # Mars-ladding-page-
 
-<img src="./assets/captura.png" alt="ladding page">  
+<img src="./assets/Captura.png" alt="ladding page">  
 
 > Resultado do Mars ladding page
 
